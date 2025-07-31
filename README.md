@@ -57,5 +57,6 @@
 ###
 
 <div align="center">
-  ![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=visitors&query=count&url=https://profile-counter.glitch.me/prateeknoob/count.json)
+  ![Visitor Count](https://img.shields.io/badge/dynamic/json?color=blue&label=visitors&url=https://profile-counter.glitch.me/prateeknoob/count.json&query=%24.count)
 </div>
+
