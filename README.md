@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Prateek and I'm currently studying in KIIT UNIVERSITY.</h2>
+<h2 align="left">Hi 👋! My name is Prateek.</h2>
 
 ###
 
