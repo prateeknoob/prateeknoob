@@ -46,7 +46,8 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/prateeknoob/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/prateeknoob/count.svg" alt="Profile Visitor Count" />
 </div>
+
 
 ###
