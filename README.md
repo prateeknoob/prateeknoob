@@ -1,32 +1,37 @@
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIFs/dev.gif" alt="MasterHead"/>
-</div>
-
 <h2 align="center">Hi 👋! My name is Prateek</h2>
 <h3 align="center">Aspiring Android Developer | Coder | Kotlin Enthusiast</h3>
-<br/>
+
 ---
-- 🔭 I’m currently working on **Jetpack Compose projects**
-- 🌱 I’m currently learning **Kotlin, Compose & Android Architecture**
-- 💬 Ask me about **C, C++, Kotlin, Android**
+
+- 🔭 I’m currently working on **Jetpack Compose projects**  
+- 🌱 I’m currently learning **Kotlin, Compose & Android Architecture**  
+- 💬 Ask me about **C, C++, Kotlin, Android**  
 - 📫 Reach me at: **prateeksinghjob2@gmail.com**
+
 ---
+
 <h3 align="center">Connect with me</h3>
+
 <p align="center">
-  <a href="https://twitter.com/prateek_noob" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+  <a href="https://instagram.com/prateek_noob">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/prateeknoob/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  <a href="https://linkedin.com/in/prateeknoob">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/prateek_noob/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  <a href="https://x.com/prateek_noob">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
+  <a href="mailto:prateeksinghjob2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
 <h3 align="center">Languages and Tools</h3>
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
@@ -41,8 +46,9 @@
 ---
 
 <h3 align="center">GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateeknoob&show_icons=true&theme=radical" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateeknoob&layout=compact&theme=radical" width="350" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateeknoob&theme=radical" width="700" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prateeknoob&show_icons=true&theme=radical" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateeknoob&layout=compact&theme=radical" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateeknoob&theme=radical" width="300" />
+</p>
