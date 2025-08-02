@@ -15,7 +15,6 @@
 - 🌱 I’m currently learning **Kotlin, Compose & Android Architecture**
 - 💬 Ask me about **C, C++, Kotlin, Android**
 - 📫 Reach me at: **prateeksinghjob2@gmail.com**
-- ⚡ Fun fact: **I love debugging more than writing code**
 
 ---
 
@@ -24,7 +23,7 @@
   <a href="https://twitter.com/prateek_noob" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/prateek-s-a07a6b195/" target="blank">
+  <a href="https://www.linkedin.com/in/prateeknoob/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/prateek_noob/" target="blank">
@@ -54,11 +53,4 @@
   <img width="350" src="https://github-readme-stats.vercel.app/api?username=prateeknoob&show_icons=true&theme=radical" />
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateeknoob&layout=compact&theme=radical" />
   <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=prateeknoob&theme=radical" />
-</div>
-
----
-
-<h3 align="center">Visitor Count:</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=visitors&url=https://profile-counter.glitch.me/prateeknoob/count.json&query=%24.count" alt="visitor badge"/>
 </div>
