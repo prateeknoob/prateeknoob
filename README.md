@@ -3,10 +3,11 @@
 ###
 
 <div align="center">
-  <img width="320" src="https://github-readme-stats.vercel.app/api?username=prateeknoob&show_icons=true&theme=radical" />
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateeknoob&layout=compact&theme=radical" />
-  <img width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=prateeknoob&theme=radical" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api?username=prateeknoob&show_icons=true&theme=radical" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateeknoob&layout=compact&theme=radical" />
+  <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=prateeknoob&theme=radical" />
 </div>
+
 
 
 ###
