@@ -1,7 +1,10 @@
 [![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIFs/dev.gif)](https://github.com/prateeknoob)
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIFs/dev.gif" alt="MasterHead"/>
+</div>
 
+<h2 align="left">Hi 👋! My name is Prateek.</h2>
 
-<h1 align="center">Hi 👋, I'm Prateek Singh</h1>
 <h3 align="center">Aspiring Android Developer | Coder | Kotlin Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
