@@ -4,19 +4,13 @@
 
 <h2 align="center">Hi 👋! My name is Prateek</h2>
 <h3 align="center">Aspiring Android Developer | Coder | Kotlin Enthusiast</h3>
-
 <br/>
-
-
 ---
-
 - 🔭 I’m currently working on **Jetpack Compose projects**
 - 🌱 I’m currently learning **Kotlin, Compose & Android Architecture**
 - 💬 Ask me about **C, C++, Kotlin, Android**
 - 📫 Reach me at: **prateeksinghjob2@gmail.com**
-
 ---
-
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://twitter.com/prateek_noob" target="blank">
