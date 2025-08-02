@@ -1,17 +1,13 @@
-[![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIFs/dev.gif)](https://github.com/prateeknoob)
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIFs/dev.gif" alt="MasterHead"/>
 </div>
 
-<h2 align="left">Hi 👋! My name is Prateek.</h2>
-
+<h2 align="center">Hi 👋! My name is Prateek</h2>
 <h3 align="center">Aspiring Android Developer | Coder | Kotlin Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=prateeknoob&label=Profile%20views&color=0e75b6&style=flat" alt="prateeknoob" />
-</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ---
 
@@ -22,23 +18,23 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me</h3>
+<p align="center">
   <a href="https://twitter.com/prateek_noob" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/prateeknoob/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/prateek_noob/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
@@ -51,10 +47,9 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-
+<h3 align="center">GitHub Stats</h3>
 <div align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api?username=prateeknoob&show_icons=true&theme=radical" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateeknoob&layout=compact&theme=radical" />
-  <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=prateeknoob&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prateeknoob&show_icons=true&theme=radical" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateeknoob&layout=compact&theme=radical" width="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateeknoob&theme=radical" width="700" />
 </div>
