@@ -14,19 +14,18 @@
 
 <p align="center">
   <a href="https://instagram.com/prateek_noob">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/prateeknoob">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/prateek_noob">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
+    <img alt="X" src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" />
   </a>
   <a href="mailto:prateeksinghjob2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
@@ -48,7 +47,7 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prateeknoob&show_icons=true&theme=radical" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateeknoob&layout=compact&theme=radical" width="280" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateeknoob&theme=radical" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prateeknoob&show_icons=true&theme=radical" width="310" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateeknoob&layout=compact&theme=radical" width="280" alt="Top Languages" /> <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateeknoob&theme=radical" width="310" alt="GitHub Streak" />
 </p>
