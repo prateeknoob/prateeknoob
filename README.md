@@ -48,6 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prateeknoob&show_icons=true&theme=radical" width="310" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateeknoob&layout=compact&theme=radical"width="280" alt="Top Languages" /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateeknoob&layout=compact&theme=radical&v=2" width="280" alt="Top Languages" />
+ <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateeknoob&theme=radical" width="310" alt="GitHub Streak" />
 </p>
